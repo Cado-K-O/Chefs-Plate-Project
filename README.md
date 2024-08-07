@@ -1,9 +1,9 @@
 
 <h1> Chefs-Plate-Project</h1>
 
-Basit bir restorant projesi
+Restaurant project
 
-<h2> Kullanilan Teknolojiler</h2>
+<h2>used technologies</h2>
 
 Html5 Css3
 
